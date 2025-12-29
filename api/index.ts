@@ -73,7 +73,7 @@ async function app(req: Request): Promise<Response> {
         </form>
       </div>
       <script>
-        const base = "https://github-profile-trophy.vercel.app/";
+        const base = "https://github-profile-trophy-self-one.vercel.app/";
         const button = document.querySelector("button");
         const input = document.querySelector("input");
         const temporarySpan = document.querySelector("#temporary-span");
